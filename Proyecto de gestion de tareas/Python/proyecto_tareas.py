@@ -1,6 +1,7 @@
 import sqlite3
 
 
+
 conn = sqlite3.connect("Proyecto de gestion de tareas.db")
 cursor = conn.cursor()
 
